@@ -87,6 +87,12 @@
 
 ---  
 
+## 📂 Project Links
+* ✅ RAD Backend: https://github.com/erandie/RADCW_BookClub_Management_System_Backend.git
+* ✅ RAD Frontend: https://github.com/erandie/RADCW_BookClub_Frontend.git
+
+---
+
 ## 📂 Project Submission   
 * ✅ Full CRUD + Lending + Overdue + Email Notifications  
 * ✅ JWT Authentication & Role-based Access  
@@ -129,7 +135,3 @@ Institute of Software Engineering (IJSE)
 > **Submitted to:** Google Classroom (on or before due date)
 
 ---
-
-# RAD_Cource_Work
-RAD Backend - https://github.com/erandie/RADCW_BookClub_Management_System_Backend.git
-RAD Frontend - https://github.com/erandie/RADCW_BookClub_Frontend.git
